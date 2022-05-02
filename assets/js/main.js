@@ -1,4 +1,4 @@
-const secretKey = "daniela";
+const secretKey = "abcdefg";
 const pressed = [];
 
 window.addEventListener('keydown', (e) => {
